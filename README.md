@@ -73,32 +73,6 @@ guest@priyansu:~$ cat status.json
 
 <br>
 
-## projects.registry
-
-| module | stack | status |
-|:--|:--|:--:|
-| **`chimera`** | LangGraph.js · TypeScript · Zod | `building` |
-| **`nexmint`** | Solidity · React · Ethers.js v6 · Prisma | `stable` |
-| **`verdant`** | Phaser 3 · Redux | `stable` |
-| **`clipse`** | Rust · Tauri · Llama 3.2 | `stable` |
-
-- **`chimera`** — autonomous multi-agent orchestration engine under a Supervisor–Coder–Auditor model. Typed Tool Registry with HITL approval gates and Zod-validated routing; AgentState reducers handle type-safe state across the agent graph.
-- **`nexmint`** — full-stack decentralized NFT marketplace with EIP-191 signed authentication. Contracts hardened with ReentrancyGuard, Ownable2Step, and ERC-2981; gas costs cut 20% via bitmap mappings and unchecked increments.
-- **`verdant`** — on-chain 2D RPG built in Phaser 3. Designed all maps, the full player animation system, and cross-scene teleportation with player state management; refactored a shared BaseScene, removing ~1,200 lines of duplicate code and fixing Redux state inconsistencies.
-- **`clipse`** — system-level Rust/Tauri utility running Llama 3.2 locally for zero-cloud clipboard transformations — summarization, translation, and code generation triggered straight from the clipboard.
-
-<br>
-
-## currently.yaml
-
-```yaml
-building: chimera — autonomous multi-agent orchestration engine
-exploring: rust-based local tooling, agentic software engineering
-learning: ai engineering fundamentals — hybrid retrieval, eval design
-```
-
-<br>
-
 <div align="center">
 
 ```bash
