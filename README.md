@@ -73,6 +73,23 @@ guest@priyansu:~$ cat status.json
 
 <br>
 
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+<code>"Jarvis, end it all"</code>
+<br>
+<sub>— Priyansu</sub>
+
+</td>
+<td width="40%" align="center">
+<img src="./mad_computer.gif" width="220" />
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
 ```bash
