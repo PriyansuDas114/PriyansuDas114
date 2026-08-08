@@ -100,7 +100,7 @@ guest@priyansu:~$ cat status.json
 guest@priyansu:~$ cat contact.env
 ```
 
-<a href="https://github.com/PriyansuDAs114">
+<a href="https://github.com/PriyansuDas114">
 <img src="https://img.shields.io/badge/GitHub-PriyansuDAs114-20232a?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="mailto:priyansudas2020@gmail.com">
