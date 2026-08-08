@@ -101,7 +101,7 @@ guest@priyansu:~$ cat contact.env
 ```
 
 <a href="https://github.com/PriyansuDas114">
-<img src="https://img.shields.io/badge/GitHub-PriyansuDAs114-20232a?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-PriyansuDas114-20232a?style=flat-square&logo=github&logoColor=white" />
 </a>
 <a href="mailto:priyansudas2020@gmail.com">
 <img src="https://img.shields.io/badge/Email-priyansudas2020%40gmail.com-20232a?style=flat-square&logo=gmail&logoColor=white" />
@@ -110,6 +110,6 @@ guest@priyansu:~$ cat contact.env
 <img src="https://img.shields.io/badge/LinkedIn-priyansudas07-20232a?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-<sub><img src="https://komarev.com/ghpvc/?username=PriyansuDAs114&style=flat-square&color=444444&label=views" /></sub>
+<sub><img src="https://komarev.com/ghpvc/?username=PriyansuDas114&style=flat-square&color=444444&label=views" /></sub>
 
 </div>
