@@ -73,12 +73,14 @@ guest@priyansu:~$ cat status.json
 
 <br>
 
+<div align="center">
+
 <table>
 <tr>
 <td width="60%" valign="middle">
 
-<code>"Jarvis, end it all"</code>
-<br>
+<img src="https://img.shields.io/badge/-%22Jarvis%2C_end_it_all%22-39c5cf?style=for-the-badge&labelColor=0d1117" />
+<br><br>
 <sub>— Priyansu</sub>
 
 </td>
@@ -87,6 +89,8 @@ guest@priyansu:~$ cat status.json
 </td>
 </tr>
 </table>
+
+</div>
 
 <br>
 
